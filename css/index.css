@@ -1,0 +1,14 @@
+@import 'reset.css';
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+h1, h2{
+    font: 700 58px 'Inter'
+}
+p{
+    font: 400 18px 'Inter'
+}
