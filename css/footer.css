@@ -1,0 +1,16 @@
+footer{
+    background-color: #19191C;
+    color: #EFEFF2;
+}
+footer a {
+    color:#EFEFF2;
+    text-decoration:none
+    }
+footer a:visited {
+    color:#EFEFF2;
+    text-decoration:none
+    }
+footer a:hover {
+    color:#339900;
+    text-decoration: underline
+    }

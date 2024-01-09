@@ -1,7 +1,11 @@
-@import 'reset.css';
+@import "/css/reset.css";
+@import '/css/footer.css';
+@import '/css/header.css';
+
 
 *{
     box-sizing: border-box;
+    color: #19191C;
 }
 body{
     font-family: 'Roboto', sans-serif; 
@@ -11,4 +15,18 @@ h1, h2{
 }
 p{
     font: 400 18px 'Inter'
+}
+.offer{
+    background-color: #EFEFF2;
+
+}
+.learn{
+    background-color: #19191C;
+    color: #FBFBFC;
+}
+.discover{
+    background-color: #FBFBFC;
+}
+.find-program{
+    background-color: #DEEFE4;
 }

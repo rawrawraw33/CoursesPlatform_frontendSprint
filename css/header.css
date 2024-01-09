@@ -1,0 +1,17 @@
+header{
+    background-color: #EFEFF2;
+    color: #19191C;
+}
+
+header a {
+    color: #19191C;
+    text-decoration:none
+    }
+
+header a:visited {
+    text-decoration:none
+    }
+header a:hover {
+    color:#339900;
+    text-decoration: underline
+    }
